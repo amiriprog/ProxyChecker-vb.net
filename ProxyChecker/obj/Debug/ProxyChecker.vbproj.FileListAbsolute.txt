@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe.config
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.Resources.resources
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.pdb
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.xml
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.exe
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.xml
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.pdb
+C:\Users\pc\Desktop\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.ProxyChecker.resources
